@@ -1,2 +1,2 @@
 # DDD
-Diagnostik Dermatopatoloji Derneği
+Website for Diagnostik Dermatopatoloji Derneği
