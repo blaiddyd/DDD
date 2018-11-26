@@ -1,0 +1,16 @@
+#navbar {
+    background-color: #6495ED;
+    
+}
+
+#name, #links li a {
+    color: white;
+}
+
+#links li a:hover {
+    color: pink;
+}
+
+#name:hover {
+    color: indigo;
+}
