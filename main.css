@@ -1,16 +1,54 @@
-#navbar {
-    background-color: #6495ED;
-    
+:root {
+  font-size: 18px;
 }
 
-#name, #links li a {
-    color: white;
+body {
+  height: 100%;
+  margin: 0;
 }
 
-#links li a:hover {
-    color: pink;
+nav {
+  background-color: white;
+  height: 75px;
+  box-shadow: 0 4px 2px -2px gray;
 }
 
-#name:hover {
-    color: indigo;
+nav ul li a {
+  padding-top: 5px;
+  color: #ff4081;
+}
+
+nav ul li a:hover {
+  padding-bottom: 7px;
+}
+
+nav img {
+  height: 100%;
+  width: 130px;
+  margin-left: 40px;
+}
+
+#mem {
+  background-color: #651fff;
+}
+
+#mem:hover {
+  background-color: #2979ff;
+}
+
+.parallax-intro {
+  text-align: center;
+  background-image: url(Resim2.jpeg);
+  min-height: 400px;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: block;
+
+}
+
+.parallax-intro h3 {
+  margin-top: 2.3px;
+  margin-bottom: 10px;
 }
