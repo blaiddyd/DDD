@@ -1,2 +1,0 @@
-# DDD
-Diagnostik Dermatopatoloji Derneği
